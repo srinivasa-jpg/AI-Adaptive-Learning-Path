@@ -26,4 +26,4 @@ This version is a transparent **AI-adaptive learning prototype**. Its recommenda
 **AI recommends. Educators decide.** Adaptive systems should make learning evidence and recommendations visible to teachers rather than silently making high-impact educational decisions.
 
 ## Live Demo
-Deployment URL will be added after publishing.
+https://ai-adaptive-learning-path-2030.onrender.com
