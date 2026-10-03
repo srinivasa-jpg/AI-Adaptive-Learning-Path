@@ -27,3 +27,13 @@ This version is a transparent **AI-adaptive learning prototype**. Its recommenda
 
 ## Live Demo
 https://ai-adaptive-learning-path-2030.onrender.com
+
+## Version history
+- **V1 — Adaptive path:** prerequisite graph, mastery checks, next-topic recommendation and intervention routing.
+- **V2 — Explainability & oversight:** live path visualization, “Why this route?” reasoning and teacher insight view.
+- **V3 — Evidence-aware adaptation:** repeated evidence now changes mastery progressively; recommendation cards expose evidence confidence and avoid treating a single correct answer as permanent mastery.
+
+**Current version: V3**
+
+### V3 decision model
+The local engine combines **mastery + prerequisite readiness + repeated evidence confidence**. Generative AI remains intentionally separate from this transparent decision layer so future LLM-generated content cannot silently control progression.
